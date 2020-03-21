@@ -80,7 +80,7 @@ font-size: x-large;
 
 
 
-.service_wrapper
+.services_wrapper
 {
     text-align: center;
 }
@@ -230,7 +230,7 @@ h1{
 }
 
 
-.foot_widget
+.footer_widget
 {
     background-color: black;
     height: 300px;
