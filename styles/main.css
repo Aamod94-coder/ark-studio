@@ -230,7 +230,8 @@ h1{
 }
 
 
-.foot{
+.foot_widget
+{
     background-color: black;
     height: 300px;
     width: 100%;
