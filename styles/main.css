@@ -85,6 +85,12 @@ font-size: x-large;
     position: relative;
 }
 
+.tead{
+    text-align: center;
+    margin: 30px auto 100px auto;
+    font-size: 50px;
+}
+
 .inf{
 list-style-type: none;
 display: flex;
