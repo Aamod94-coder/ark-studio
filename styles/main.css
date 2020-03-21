@@ -78,6 +78,13 @@ font-size: x-large;
     background-color: aqua;
 }
 
+.services{
+    width: 70%;
+    margin: 30px auto;
+   
+    position: relative;
+}
+
 .inf{
 list-style-type: none;
 display: flex;
@@ -119,6 +126,7 @@ justify-content: space-between;
     /* background-color: rgb(179, 172, 172); */
     position: relative;
 }
+
 .tHead{
     text-align: center;
     margin: 30px auto 100px auto;
