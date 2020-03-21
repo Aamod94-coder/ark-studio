@@ -104,6 +104,12 @@ justify-content: space-between;
     margin-left: 200px;
 }
 
+.inf li{
+    width: 30%;
+    text-align: justify;
+}
+
+
 .work
 {
     width: 100%;
